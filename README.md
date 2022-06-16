@@ -1,9 +1,7 @@
-# aviasales
-Поиск и сравнение цен на авиабилеты, предлагаемые различными авиакомпаниями
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Была сделана реализация выпадающего списка-подсказки на чистом JavaScript, а также вывод карточек c перелетами, отсортированных по цене. Работа с API Aviasales.
+Below you will find some information on how to perform common tasks.<br>
+You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-Демонстрация по ссылке: https://musichatter.github.io/aviasales/
-
-![Фотография поиска](https://i.imgur.com/WTAtPgB.png)
-![фотография вывода](https://i.imgur.com/pMA9Zdr.png)
+- yarn
+- yarn start
